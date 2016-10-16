@@ -4,4 +4,6 @@ A game I made in game maker studio, the tutorial I used can be found here: https
 
 To download just the game, look in the compiledgame folder and download the .exe files.
 
+For sound effects, I used this website: http://www.bfxr.net/
+
 Enjoy!
